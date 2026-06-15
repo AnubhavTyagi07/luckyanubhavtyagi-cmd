@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 **B.Tech Student (1st Year)** | Chennai, Tamil Nadu, India
+- 🎓 **B.Tech Student (2nd Year)** | Chennai, Tamil Nadu, India
 - 💻 Passionate about **Programming, Electronics & App Development**
 - 🌱 Currently exploring **C++, Python, and real-world projects**
 - 📈 Motto: *Always learning, always improving*
