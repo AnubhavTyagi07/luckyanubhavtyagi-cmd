@@ -1,14 +1,14 @@
 # Hi there, I'm Anubhav Tyagi 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=First+Year+B.Tech+Student+%F0%9F%8E%93;C%2B%2B+%7C+Python+%7C+HTML+Developer;Always+Learning%2C+Always+Improving+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Second+Year+B.Tech+Student+%F0%9F%8E%93;C%2B%2B+%7C+Python+%7C+HTML+Developer;Always+Learning%2C+Always+Improving+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 🎓 **B.Tech Student (2nd Year)** | Chennai, Tamil Nadu, India
+- 🎓 **B.Tech Student (1st Year)** | Chennai, Tamil Nadu, India
 - 💻 Passionate about **Programming, Electronics & App Development**
 - 🌱 Currently exploring **C++, Python, and real-world projects**
 - 📈 Motto: *Always learning, always improving*
