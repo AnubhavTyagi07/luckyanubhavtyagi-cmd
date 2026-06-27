@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C2FF,100:7928CA&height=200&section=header&text=Anubhav%20Tyagi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20that%20matter%20%F0%9F%9A%80&descAlignY=58&descSize=18" width="100%"/>
 
-</div>
-
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=2nd+Year+B.Tech+%40+SRM+KTR+%F0%9F%8E%93;C%2B%2B+%7C+Python+%7C+OpenCV+Developer;Electronics+%2B+Code+%3D+My+Superpower+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
@@ -64,7 +60,17 @@ status   : Always building, always learning 🔥
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnubhavTyagi07&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=7928CA&currStreakLabel=00C2FF" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=AnubhavTyagi07&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=7928CA&currStreakLabel=00C2FF" width="70%"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnubhavTyagi07&theme=react-dark&bg_color=0D1117&color=00C2FF&line=7928CA&point=00C2FF&hide_border=true" width="100%"/>
 
 </div>
 
@@ -84,7 +90,7 @@ status   : Always building, always learning 🔥
 
 ---
 
-## 🤝 Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
