@@ -57,14 +57,14 @@ status   : Always building, always learning 🔥
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=luckyanubhavtyagi-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00C2FF&icon_color=7928CA&text_color=ffffff" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyanubhavtyagi-cmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=ffffff" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AnubhavTyagi07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00C2FF&icon_color=7928CA&text_color=ffffff" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavTyagi07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=ffffff" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luckyanubhavtyagi-cmd&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=7928CA&currStreakLabel=00C2FF" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnubhavTyagi07&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=7928CA&currStreakLabel=00C2FF" width="70%"/>
 
 </div>
 
@@ -75,9 +75,9 @@ status   : Always building, always learning 🔥
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luckyanubhavtyagi-cmd/luckyanubhavtyagi-cmd/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luckyanubhavtyagi-cmd/luckyanubhavtyagi-cmd/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/luckyanubhavtyagi-cmd/luckyanubhavtyagi-cmd/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnubhavTyagi07/AnubhavTyagi07/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnubhavTyagi07/AnubhavTyagi07/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/AnubhavTyagi07/AnubhavTyagi07/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
@@ -89,11 +89,11 @@ status   : Always building, always learning 🔥
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhav-tyagi-2406ab391)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luckyanubhavtyagi-cmd)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnubhavTyagi07)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=luckyanubhavtyagi-cmd&label=Profile+Views&color=00C2FF&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=AnubhavTyagi07&label=Profile+Views&color=00C2FF&style=flat)
 
 </div>
 
